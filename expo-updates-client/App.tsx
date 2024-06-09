@@ -5,8 +5,8 @@ import Constants from 'expo-constants';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>mamad dahanet service!</Text>
-      <Text style={styles.text}>mamad dahanet service!</Text>
+      <Text style={styles.text}>hi</Text>
+      <Text style={styles.text}>welcome to code push</Text>
       <Text>{Constants?.expoRuntimeVersion}</Text>
     </View>
   );
