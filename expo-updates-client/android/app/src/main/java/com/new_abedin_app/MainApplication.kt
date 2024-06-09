@@ -1,4 +1,4 @@
-package com.new_abedin_app
+package com.code_push_test
 import android.content.res.Configuration
 import expo.modules.ApplicationLifecycleDispatcher
 import expo.modules.ReactNativeHostWrapper

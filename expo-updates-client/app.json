@@ -1,12 +1,12 @@
 {
-  "name": "new_abedin_app",
-  "displayName": "new_abedin_app",
+  "name": "code_push_test",
+  "displayName": "code_push_test",
   "expo": {
-    "name": "new_abedin_app",
+    "name": "code_push_test",
     "slug": "newabedinapp",
     "version": "1.0.0",
     "ios": {
-      "bundleIdentifier": "com.new_abedin_app"
+      "bundleIdentifier": "com.code_push_test"
     },
     "runtimeVersion": "1",
     "updates": {
@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.new_abedin_app"
+      "package": "com.code_push_test"
     }
   }
 }

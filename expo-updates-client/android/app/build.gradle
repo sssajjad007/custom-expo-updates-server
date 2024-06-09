@@ -91,9 +91,9 @@ android {
             include "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
         }
     }
-    namespace "com.new_abedin_app"
+    namespace "com.code_push_test"
     defaultConfig {
-        applicationId "com.new_abedin_app"
+        applicationId "com.code_push_test"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
