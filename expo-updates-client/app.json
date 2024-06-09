@@ -1,15 +1,12 @@
 {
+  "name": "new_abedin_app",
+  "displayName": "new_abedin_app",
   "expo": {
-    "name": "expo-updates-client",
-    "slug": "expo-updates-client",
-    "owner": "anonymous",
+    "name": "new_abedin_app",
+    "slug": "newabedinapp",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+    "ios": {
+      "bundleIdentifier": "com.new_abedin_app"
     },
     "runtimeVersion": "1",
     "updates": {
@@ -22,22 +19,13 @@
         "alg": "rsa-v1_5-sha256"
       }
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.test.expo-updates-client"
-    },
+    "assetBundlePatterns": ["**/*"],
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.test.expoupdatesclient"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.new_abedin_app"
     }
   }
 }
