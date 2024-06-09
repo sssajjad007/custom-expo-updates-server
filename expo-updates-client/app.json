@@ -3,7 +3,7 @@
   "displayName": "code_push_test",
   "expo": {
     "name": "code_push_test",
-    "slug": "newabedinapp",
+    "slug": "codePushTest",
     "version": "1.0.0",
     "ios": {
       "bundleIdentifier": "com.code_push_test"
